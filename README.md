@@ -2,7 +2,7 @@
 🏢 Domain: FinTech / Procurement SaaS
 
 
-This project implements an end-to-end **Machine Learning Operations (MLOps)** pipeline for fraud detection using the [BankSim synthetic dataset](https://www.kaggle.com/datasets/ntnu-testimon/banksim1). It simulates real-time credit card fraud detection while demonstrating production-grade practices across the ML lifecycle.
+This project implements an end-to-end **Machine Learning Operations (MLOps)** pipeline for fraud detection using the Invoice Data. It simulates real-time Invoice fraud detection while demonstrating production-grade practices across the ML lifecycle.
 
 ---
 
@@ -19,3 +19,4 @@ This project implements an end-to-end **Machine Learning Operations (MLOps)** pi
 - ☁️ **Production-ready structure** (ready for cloud migration)
 
 ---
+
