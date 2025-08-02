@@ -6,7 +6,7 @@ This project implements an end-to-end **Machine Learning Operations (MLOps)** pi
 
 ---
 
-## 🚀 Project Features
+## 🚀 Project Details
 
 - ✅ **Data Ingestion & Preprocessing** using `pandas` & `sklearn`
 - 📊 **Exploratory Data Analysis (EDA)** reports
@@ -14,9 +14,8 @@ This project implements an end-to-end **Machine Learning Operations (MLOps)** pi
 - 🎯 **Evaluation Metrics** and confusion matrix visualization
 - 🔍 **Feature Importance Analysis**
 - 📦 **Model Packaging** with `joblib`
-- 📁 **Modular Codebase** for maintainability
-- 📌 **MLflow Integration** (coming soon)
-- ☁️ **Production-ready structure** (ready for cloud migration)
+
 
 ---
+
 
