@@ -1,0 +1,10 @@
+artifact_location: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/models/m-dab4331d99c1445f9a0ae5a916b7e33d/artifacts
+creation_timestamp: 1754026616372
+experiment_id: '927041782108721250'
+last_updated_timestamp: 1754026622707
+model_id: m-dab4331d99c1445f9a0ae5a916b7e33d
+model_type: null
+name: XGboost_model
+source_run_id: 6809f8f8223c4eddbb7009de6fe03702
+status: 2
+status_message: null

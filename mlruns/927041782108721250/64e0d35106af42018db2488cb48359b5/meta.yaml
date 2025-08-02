@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/64e0d35106af42018db2488cb48359b5/artifacts
+end_time: 1754087756457
+entry_point_name: ''
+experiment_id: '927041782108721250'
+lifecycle_stage: active
+run_id: 64e0d35106af42018db2488cb48359b5
+run_name: rare-slug-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754087742656
+status: 3
+tags: []
+user_id: ashar

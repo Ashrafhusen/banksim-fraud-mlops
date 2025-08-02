@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1754026708837
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1754026708837
+metrics: null
+model_id: m-dab4331d99c1445f9a0ae5a916b7e33d
+name: XGBoost Classifier
+params: null
+run_id: ''
+run_link: ''
+source: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/models/m-dab4331d99c1445f9a0ae5a916b7e33d/artifacts
+status: READY
+status_message: null
+storage_location: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/models/m-dab4331d99c1445f9a0ae5a916b7e33d/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/25e5e57c743a4208a50d08ea7c400b0e/artifacts
+end_time: 1754026207746
+entry_point_name: ''
+experiment_id: '927041782108721250'
+lifecycle_stage: active
+run_id: 25e5e57c743a4208a50d08ea7c400b0e
+run_name: able-boar-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754026207406
+status: 4
+tags: []
+user_id: ashar

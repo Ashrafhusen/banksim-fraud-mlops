@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/797552268907757719/d46101aee9764bcc82d8856bb3b2bff1/artifacts
+end_time: 1754092115624
+entry_point_name: ''
+experiment_id: '797552268907757719'
+lifecycle_stage: active
+run_id: d46101aee9764bcc82d8856bb3b2bff1
+run_name: marvelous-bear-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754091936172
+status: 3
+tags: []
+user_id: ashar

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/6809f8f8223c4eddbb7009de6fe03702/artifacts
+end_time: 1754026622738
+entry_point_name: ''
+experiment_id: '927041782108721250'
+lifecycle_stage: active
+run_id: 6809f8f8223c4eddbb7009de6fe03702
+run_name: exultant-rat-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754026613239
+status: 3
+tags: []
+user_id: ashar

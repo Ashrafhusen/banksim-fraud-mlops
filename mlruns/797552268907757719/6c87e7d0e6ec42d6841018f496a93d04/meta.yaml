@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/797552268907757719/6c87e7d0e6ec42d6841018f496a93d04/artifacts
+end_time: 1754091833860
+entry_point_name: ''
+experiment_id: '797552268907757719'
+lifecycle_stage: active
+run_id: 6c87e7d0e6ec42d6841018f496a93d04
+run_name: awesome-shrew-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754091824217
+status: 4
+tags: []
+user_id: ashar

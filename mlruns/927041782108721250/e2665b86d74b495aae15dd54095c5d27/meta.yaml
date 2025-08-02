@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/927041782108721250/e2665b86d74b495aae15dd54095c5d27/artifacts
+end_time: 1754026544634
+entry_point_name: ''
+experiment_id: '927041782108721250'
+lifecycle_stage: active
+run_id: e2665b86d74b495aae15dd54095c5d27
+run_name: exultant-rook-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754026542011
+status: 4
+tags: []
+user_id: ashar

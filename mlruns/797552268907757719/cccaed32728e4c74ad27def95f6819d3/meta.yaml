@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/banksim-fraud-mlops/mlruns/797552268907757719/cccaed32728e4c74ad27def95f6819d3/artifacts
+end_time: 1754091872521
+entry_point_name: ''
+experiment_id: '797552268907757719'
+lifecycle_stage: active
+run_id: cccaed32728e4c74ad27def95f6819d3
+run_name: adorable-boar-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754091864954
+status: 4
+tags: []
+user_id: ashar
